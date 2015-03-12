@@ -119,14 +119,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #8edfdd;
+    border-color: #01B5AF;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #8edfdd;
+    background-color: #01B5AF;
 }
 
 .btn-xl:hover,
@@ -205,7 +205,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #8edfdd;
+    background-color: #01B5AF;
 }
 
 .navbar-default .nav li a {
@@ -219,19 +219,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #8edfdd;
+    color: #01B5AF;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #DDD;
-    background-color: #8edfdd;
+    background-color: #01B5AF;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #DDD;
-    background-color: #8edfdd;
+    background-color: #01B5AF;
 }
 
 @media(min-width:768px) {
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #01B5AF;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
