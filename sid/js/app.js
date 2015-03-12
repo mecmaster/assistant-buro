@@ -4,8 +4,10 @@ $(function() {
     var feed = new Instafeed({
         clientId: '2087c51c4d644da1bef8660fa8204a93',
         target: 'instafeed',
-        get: 'tagged',
-        tagName: 'photographyportfolio',
+        get: 'user',
+//        userId: 186040369,
+        accessToken: '186040369.467ede5.2c7261dc355e411fb972e9d516a181c5',
+        useHttp: true,
         links: true,
         limit: 8,
         sortBy: 'most-recent',

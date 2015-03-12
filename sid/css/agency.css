@@ -927,30 +927,28 @@ body {
 
 
 
-            .image-wrap img {
+            .photo-box .image-wrap img {
                 width: 100%;
             }
  
-            .likes {
-                position: absolute;
-                bottom: 5px;
-                left: 15px;
+            .photo-box .image-wrap div.likes {
+                
                 padding: 5px;
-                background: #000;
-                background: rgba(#000, 0.4);
+                background: #01B5AF;
+                background: rgba(#01B5AF, 0.4);
                 color: #fff;
             }
         
-        .description {  
+        .photo-box .description {  
 
             font-size: 12px;
             background: #fff;
             color: #9b9b9b;
             letter-spacing: 1px;
-            padding: 5px*1.5;
+            padding: 5px;
             height: 75px;
             overflow: hidden;
-            white-space: nowrap;
+            white-space: pre-line;
             text-overflow: ellipsis;
         }
     
