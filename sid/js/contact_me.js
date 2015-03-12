@@ -28,7 +28,17 @@ $(function() {
                     message: message
                 },
                 dataType: "json"
- 
+            });
+            
+            $.ajax({
+                url: "././mail/contact_me.php",
+                type: "POST",
+                data: {
+                    name: name,
+                    phone: phone,
+                    email: email,
+                    message: message
+                },
                 cache: false,
                 success: function() {
                     // Success message
