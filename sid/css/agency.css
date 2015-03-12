@@ -4,6 +4,58 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+.instagram-wrap {
+    background: #eeeeee;
+}
+ 
+.instagram-content {
+    h3 {
+        text-transform: uppercase;
+        letter-spacing: 0.5em;
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+        padding: 50 0;
+        color: darken(#eeeeee, 20%);
+    }
+ 
+}
+
+.photo-box {
+        margin: 0 0 30 0;
+ 
+        .image-wrap {
+            img {
+                width: 100%;
+            }
+ 
+            .likes {
+                position: absolute;
+                bottom: 5px;
+                left: 15px;
+                padding: 5px;
+                background: #000;
+                background: rgba(#000, 0.4);
+                color: #fff;
+            }
+        }
+        .description {  
+
+            font-size: 12px;
+            background: #fff;
+            color: #9b9b9b;
+            letter-spacing: 1px;
+            padding: 5px*1.5;
+            height: 75px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+    }
+
+
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
