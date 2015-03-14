@@ -169,6 +169,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-xl .badge {
     color: #fed136;
     background-color: #fff;
+    margin-top: 300px;
 }
 
 .navbar-default {
@@ -295,7 +296,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: 'baron_neueregular';
     font-size: 12px;
-    line-height: 42px;
+    line-height: 20px;
 
     text-shadow: -.5px -.5px #FFF,
                -1px -1px #FFF,
@@ -316,7 +317,7 @@ header .intro-text .intro-heading {
     font-family: 'baron_neueregular';
     font-size: 20px;
     font-weight: 400;
-    line-height: 70px;
+    line-height: 20px;
 
     text-shadow: -1px -1px #FFF,
                -2px -2px #FFF,
