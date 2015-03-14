@@ -293,7 +293,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: 'Andika';
+    font-family: 'baron_neueregular';
     font-size: 22px;
     line-height: 22px;
 
@@ -313,7 +313,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family: 'Andika';
+    font-family: 'baron_neueregular';
     font-size: 40px;
     font-weight: 400;
     line-height: 70px;
@@ -343,14 +343,14 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: 'Andika';
+        font-family: 'baron_neueregular';
         font-size: 40px;
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 20px;
-        font-family: 'Andika';
+        font-family: 'baron_neueregular';
         font-size: 75px;
         font-weight: 400;
         line-height: 75px;
