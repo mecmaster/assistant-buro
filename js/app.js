@@ -6,6 +6,7 @@ $(function() {
         target: 'instafeed',
         get: 'user',
         userId: 1575786723,
+        accessToken: '1575786723.467ede5.e91ee4a0ab4d40eeaa69f50db82eb4a4',
         useHttp: true,
         links: true,
         limit: 8,
